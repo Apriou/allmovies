@@ -1,0 +1,11 @@
+.spinner--container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.fa-faSpinner {
+    color: white;
+    margin: 10rem auto;
+  }
+  

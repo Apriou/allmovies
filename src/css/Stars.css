@@ -1,0 +1,12 @@
+.stars--container {
+  display: flex;
+ 
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+}
+
+.stars {
+  color: #d8a860;
+  
+}

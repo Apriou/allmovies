@@ -1,0 +1,10 @@
+.videoPlayer {
+    position: relative;
+    width: 60%;
+    height: calc(100vh - 9rem);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+  
